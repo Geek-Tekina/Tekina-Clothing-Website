@@ -9,7 +9,7 @@ const CheckoutPage = () => {
   return <main>
     <PageHero title='checkout'></PageHero>
     <Wrapper className='page'>
-      <h1>Checkout here</h1>
+      <h1>Checkout Page under Development using STRIPE integration</h1>
     </Wrapper>
   </main>
 }
