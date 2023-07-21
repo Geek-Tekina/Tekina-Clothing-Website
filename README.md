@@ -12,7 +12,7 @@
 <h2>Products page</h2>
 <img src="Screenshot (261).png">
 <hr>
-<h2>Single Prpduct Page</h2>
+<h2>Single Product Page</h2>
 <img src="Screenshot (262).png">
 <hr>
 <h2>Cart</h2>
