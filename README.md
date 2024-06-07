@@ -1,4 +1,4 @@
-<h2>A clothing Ecommerce Site 👚👕</h2>
+<h2>A Furniture Ecommerce Site 👚👕</h2>
 <ul>
   <li>You can explore wide range of products.</li>
   <li>You can also see featured product section</li>
